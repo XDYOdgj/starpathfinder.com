@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://starpathfinder.com/sitemap.xml
